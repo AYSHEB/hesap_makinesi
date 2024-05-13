@@ -1,0 +1,16 @@
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\bin\Debug\net8.0-windows\hesap_makinesi.exe
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\bin\Debug\net8.0-windows\hesap_makinesi.deps.json
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\bin\Debug\net8.0-windows\hesap_makinesi.runtimeconfig.json
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\bin\Debug\net8.0-windows\hesap_makinesi.dll
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\bin\Debug\net8.0-windows\hesap_makinesi.pdb
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.Form1.resources
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.csproj.GenerateResource.cache
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.AssemblyInfoInputs.cache
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.AssemblyInfo.cs
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.dll
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\refint\hesap_makinesi.dll
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.pdb
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\hesap_makinesi.genruntimeconfig.cache
+C:\Users\ayshe\OneDrive\Masaüstü\c# projeleri\hesap_makinesi\hesap_makinesi\obj\Debug\net8.0-windows\ref\hesap_makinesi.dll
